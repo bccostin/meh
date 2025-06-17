@@ -1,0 +1,11 @@
+!Whitelist
+@@||browser.pipe.aria.microsoft.com^
+@@||whoami.akamai.net^
+@@||settings-win.data.microsoft.com^
+@@||soaringweather.no-ip.info^
+@@||t.co^
+@@||s.click.aliexpress.com^
+@@||trimble.com^
+@@||dpbolvw.net^
+@@||nuki.io^
+@@||stratus.org.uk^
