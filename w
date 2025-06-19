@@ -11,3 +11,4 @@
 @@||stratus.org.uk^
 @@||tailscale.com^
 @@||fonts.gstatic.com^$important
+@@||nest.com^
