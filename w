@@ -10,5 +10,5 @@
 @@||nuki.io^
 @@||stratus.org.uk^
 @@||tailscale.com^
-@@||fonts.gstatic.com^$important
+@@||fonts.gstatic.com^
 @@||nest.com^
