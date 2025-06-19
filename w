@@ -10,3 +10,4 @@
 @@||nuki.io^
 @@||stratus.org.uk^
 @@||fonts.gstatic.com^$important
+@@||tailscale.com^
